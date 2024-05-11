@@ -25,12 +25,13 @@ Com esta funcionalidade, você pode tirar suas dúvidas, sejam elas relacionadas
 Por último, você também pode gerar exercícios para a prática dos conteúdos que você esteja buscando. Além disso, os exercícios são gerados de forma totalmente personalizada para você, com a quantidade de questões que deseja e o nível de dificuldade que você informar.
 
 ## Ferramentas Utilizadas
-▫️ Google Colab
-▫️ Gemini
-▫️ Google AI Studio
+<p> ▫️ Google Colab <\p>
+<p> ▫️ Gemini <\p>
+<p> ▫️ Google AI Studio <\p>
 
 ## Linguagem de Programação
 ▫️ Python
 
 ## Autores do Projeto
-| [<sub>Ilana Alcantara</sub>]([(https://github.com/ilanaalc)]) 
+| <h2>lana Alcantara<h2>
+  <h2>GitHub:https://github.com/ilanaalc<h2>
