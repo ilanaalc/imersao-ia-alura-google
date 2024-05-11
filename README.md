@@ -12,15 +12,15 @@ O Chatbot Educacional foi desenvolvido com o objetivo de permitir e colaborar co
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Saber mais sobre determinado conteúdo.
+:heavy_check_mark: `Funcionalidade 1:` Saber mais sobre determinado conteúdo
 <p align="justify"
 Com esta funcionalidade, o chatbot em colaboração com o modelo pode gerar para você com base na área de conhecimento, conteúdo e nível de conhecimento informado, um resumo sobre quais temas e assuntos podem ser explorados por você.
 
-:heavy_check_mark: `Funcionalidade 2:` Tirar dúvidas.
+:heavy_check_mark: `Funcionalidade 2:` Tirar dúvidas
 <p align="justify"
 Com esta funcionalidade, você pode tirar suas dúvidas, sejam elas relacionadas ao conteúdo que você estava buscando ou não.
 
-:heavy_check_mark: `Funcionalidade 3:` Criar exercícios personalizados.
+:heavy_check_mark: `Funcionalidade 3:` Criar exercícios personalizados
 <p align="justify"
 Por último, você também pode gerar exercícios para a prática dos conteúdos que você esteja buscando. Além disso, os exercícios são gerados de forma totalmente personalizada para você, com a quantidade de questões que deseja e o nível de dificuldade que você informar.
 
