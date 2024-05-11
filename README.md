@@ -25,9 +25,9 @@ Com esta funcionalidade, você pode tirar suas dúvidas, sejam elas relacionadas
 Por último, você também pode gerar exercícios para a prática dos conteúdos que você esteja buscando. Além disso, os exercícios são gerados de forma totalmente personalizada para você, com a quantidade de questões que deseja e o nível de dificuldade que você informar.
 
 ## Ferramentas Utilizadas
-<p> ▫️ Google Colab <\p>
-<p> ▫️ Gemini <\p>
-<p> ▫️ Google AI Studio <\p>
+<p> ▫️ Google Colab 
+<p> ▫️ Gemini 
+<p> ▫️ Google AI Studio 
 
 ## Linguagem de Programação
 ▫️ Python
