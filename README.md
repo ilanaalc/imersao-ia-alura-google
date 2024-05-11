@@ -33,5 +33,5 @@ Por último, você também pode gerar exercícios para a prática dos conteúdos
 ▫️ Python
 
 ## Autores do Projeto
-| <h2>lana Alcantara<h2>
-  <h2>GitHub:https://github.com/ilanaalc<h2>
+👩🏽‍💻 Ilana Alcantara
+💻 [GitHub](https://github.com/ilanaalc)
