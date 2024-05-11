@@ -6,7 +6,7 @@
 <p align="justify">
 Este projeto foi construído com base nos conhecimentos adquiridos com a Imersão de Inteligência Artificial da Alura + Google, utilizando as ferramentas para o desenvolvimento do Gemini, Google AI Studio, Google Colab e a linguagem de programação Python. 
 
-O Chatbot Educacional desenvolvido tem como objetivo permitir e colaborar com todo e qualquer público que deseja explorar as mais diversas áreas de conhecimentos, seja elas, as que você já possui um conhecimento mais avançado ou não. Com a utilização do chatbot, você poderá explorar mais um determinado conteúdo, tirar dúvidas e também gerar exercícios para praticar o conteúdo que deseja se aprofundar. Dessa forma, traz como recurso para você também, o incentivo e a colaboração de uma maneira mais personalizada para os seus estudos.
+O Chatbot Educacional foi desenvolvido com o objetivo de permitir e colaborar com todo e qualquer público que deseja explorar as mais diversas áreas de conhecimentos, seja elas, as que você já possui um conhecimento mais avançado ou não. Com a utilização do chatbot, você poderá explorar mais um determinado conteúdo, tirar dúvidas e também gerar exercícios para praticar o conteúdo que deseja se aprofundar. Dessa forma, traz como recurso para você também, o incentivo e a colaboração de uma maneira mais personalizada para os seus estudos.
 
 </p>
 
