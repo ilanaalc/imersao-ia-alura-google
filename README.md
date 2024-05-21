@@ -35,7 +35,7 @@ Por último, você também pode gerar exercícios para a prática dos conteúdos
 ## Orientações sobre como rodar o projeto utilizando a API Key do Google
 
 ❓ Como gerar a sua API Key?
-1. Acesse o [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?) target="_blank";
+1. Acesse o [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?) data-outbound-link target="_blank";
 2. Se não estiver logado na sua conta do Gmail, fazer o login com o seu Gmail;
 3. Se já estiver logado na sua conta do Gmail, no menu lateral esquerdo, clique em "Get API key";
 4. Agora clique em "Criar chave de API";
