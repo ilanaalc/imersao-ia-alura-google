@@ -32,6 +32,24 @@ Por último, você também pode gerar exercícios para a prática dos conteúdos
 ## Linguagem de Programação
 ▫️ Python
 
+## Orientações sobre como rodar o projeto utilizando a API Key do Google
+
+❓ Como gerar a sua API Key?
+1. Acesse o Google AI Studio: https://aistudio.google.com/app/prompts/new_chat?utm_source=ai.google.dev&utm_medium=referral&utm_campaign=log_in&pli=1;
+2. Se não estiver logado na sua conta do Gmail, fazer o login com o seu Gmail;
+3. Se já estiver logado na sua conta do Gmail, no menu lateral esquerdo, clique em "Get API key";
+4. Agora clique em "Criar chave de API";
+5. Após isso, será gerado automaticamente para você a sua API Key, que poderá estar sendo utilizada para rodar o projeto;
+
+❓ Já tenho a API Key, como faço para configurá-la no Google Colab?
+1. No Google Colab, acessando o menu lateral esquerdo, clique em "Secrets 🗝️"
+2. Após isso, clique em "Adicionar novo secret";
+3. Agora configure o nome como "SECRET_KEY" e adicione no campo "valor" o link da sua API Key;
+4. Clique em "Acesso ao notebook" e pronto, agora a sua API Key já está configurada e você já pode começar a usá-lá.
+
+▫ ️ Se tiver dúvidas ou quiser conversar mais sobre o projeto, fico à disposição para dicas e sugestões. Pode entrar em contato comigo pelas redes abaixo. Ficarei muito feliz em poder ajudar você.
+
 ## Autores do Projeto
 <p>👩🏽‍💻 Ilana Alcantara
 <p>💻 [GitHub](https://github.com/ilanaalc)
+<p> 🔹[LinkdIn}(https://www.linkedin.com/in/ilana-alcantara/)
