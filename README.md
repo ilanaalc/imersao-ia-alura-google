@@ -52,4 +52,4 @@ Por último, você também pode gerar exercícios para a prática dos conteúdos
 ## Autores do Projeto
 <p>👩🏽‍💻 Ilana Alcantara
 <p>💻 [GitHub](https://github.com/ilanaalc)
-<p> 🔹[LinkdIn}(https://www.linkedin.com/in/ilana-alcantara/)
+<p> 🔹[LinkedIn}(https://www.linkedin.com/in/ilana-alcantara/)
